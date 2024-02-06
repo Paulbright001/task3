@@ -1,0 +1,17 @@
+body{
+    background-color: rgb(101, 180, 180);
+
+}
+h1{
+    text-align: center;
+}
+input[type=submit]{
+    background-color: rgb(9, 184, 67);
+    color: antiquewhite;
+    margin-left: 24%;
+}
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
